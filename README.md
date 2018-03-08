@@ -3,7 +3,7 @@
 
 
 
-Openrunner can be used for benchmark and functional testing for frontend-heavy web applications. It's a tool that simulates an end user using a website. It simulates user behaviour (keyboard/mouse activity) to browse through an online application. This can be used to test functionality and/or response times. Openrunner is a browser extension but can also be run from the command line i.e. for integration in a build pipeline.
+Openrunner can be used for benchmark and functional testing for frontend-heavy web applications. It's a tool that simulates an end user using a website. It simulates user behaviour (keyboard/mouse activity) to browse through a web application. This can be used to test functionality and/or response times. Openrunner is a browser extension but can also be run from the command line i.e. for integration in a build pipeline.
 
 ## Getting started:
 
